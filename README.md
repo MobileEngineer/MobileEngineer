@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kipkemoi Hillary 
+- 👋 Hi, I’m @Kipkemoi Dylan 
 - 👀 I’m interested in Technology and Innovation
-- 🌱 I’m currently learning Mobile Development
+- 🌱 I’m currently learning Mobile Development with flutter
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me my Handles are:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MobileEngineer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Dylankipkemoi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Dylankipuu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16442111/Dylan)  
 
